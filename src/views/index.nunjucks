@@ -1,0 +1,4 @@
+{% extends 'src/views/partials/layout.nunjucks' %}
+{% block content %}
+    <h1> Hello!!! </h1>
+{% endblock %}
